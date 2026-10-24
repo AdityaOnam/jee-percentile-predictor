@@ -88,7 +88,9 @@ points to a **median RMSE of 0.12 percentile points** across 41 shifts, and is i
 **Stage 2: a cutoff ensemble.** For every percentile *p* ∈ {90, …, 99}, a ridge regression predicts
 the marks needed to reach *p* from the paper's difficulty:
 
-$$\text{marks}_p = \beta_{0,p} + \beta_{1,p}\,\text{phy\_hard} + \beta_{2,p}\,\text{phy\_easy} + \beta_{3,p}\,\text{is\_2026}$$
+```math
+\text{marks}_p = \beta_{0,p} + \beta_{1,p}\,\text{phy\_hard} + \beta_{2,p}\,\text{phy\_easy} + \beta_{3,p}\,\text{is\_2026}
+```
 
 Ten independently fit cutoffs can cross, so the predicted curve goes through **isotonic regression
 (PAVA)** before the student's marks are interpolated onto it. Unlike sorting, PAVA keeps every value
