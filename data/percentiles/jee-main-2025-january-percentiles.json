@@ -1,0 +1,648 @@
+{
+  "exam": "JEE Main",
+  "year": 2025,
+  "session": "January",
+  "notes": "raw_score on the 300-mark scale. Cross-validated: src-p0003 (Vedantu) and src-p0004 (pw.live) give identical values for every shift/tier checked.",
+  "shifts": [
+    {
+      "shift_id": "2025_22_JAN_1",
+      "date": "2025-01-22",
+      "session_time": "Morning",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 158
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 143
+        },
+        {
+          "percentile": 98,
+          "raw_score": 133
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 128
+        },
+        {
+          "percentile": 97,
+          "raw_score": 120
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 115
+        },
+        {
+          "percentile": 96,
+          "raw_score": 110
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 105
+        },
+        {
+          "percentile": 95,
+          "raw_score": 101
+        },
+        {
+          "percentile": 94,
+          "raw_score": 94
+        },
+        {
+          "percentile": 93,
+          "raw_score": 88
+        },
+        {
+          "percentile": 92,
+          "raw_score": 85
+        },
+        {
+          "percentile": 91,
+          "raw_score": 78
+        },
+        {
+          "percentile": 90,
+          "raw_score": 74
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_22_JAN_2",
+      "date": "2025-01-22",
+      "session_time": "Evening",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 186
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 173
+        },
+        {
+          "percentile": 98,
+          "raw_score": 163
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 155
+        },
+        {
+          "percentile": 97,
+          "raw_score": 149
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 143
+        },
+        {
+          "percentile": 96,
+          "raw_score": 138
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 134
+        },
+        {
+          "percentile": 95,
+          "raw_score": 129
+        },
+        {
+          "percentile": 94,
+          "raw_score": 122
+        },
+        {
+          "percentile": 93,
+          "raw_score": 115
+        },
+        {
+          "percentile": 92,
+          "raw_score": 108
+        },
+        {
+          "percentile": 91,
+          "raw_score": 102
+        },
+        {
+          "percentile": 90,
+          "raw_score": 98
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_23_JAN_1",
+      "date": "2025-01-23",
+      "session_time": "Morning",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 178
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 167
+        },
+        {
+          "percentile": 98,
+          "raw_score": 154
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 145
+        },
+        {
+          "percentile": 97,
+          "raw_score": 140
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 134
+        },
+        {
+          "percentile": 96,
+          "raw_score": 129
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 124
+        },
+        {
+          "percentile": 95,
+          "raw_score": 120
+        },
+        {
+          "percentile": 94,
+          "raw_score": 112
+        },
+        {
+          "percentile": 93,
+          "raw_score": 106
+        },
+        {
+          "percentile": 92,
+          "raw_score": 101
+        },
+        {
+          "percentile": 91,
+          "raw_score": 95
+        },
+        {
+          "percentile": 90,
+          "raw_score": 89
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_23_JAN_2",
+      "date": "2025-01-23",
+      "session_time": "Evening",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 188
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 175
+        },
+        {
+          "percentile": 98,
+          "raw_score": 165
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 158
+        },
+        {
+          "percentile": 97,
+          "raw_score": 152
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 147
+        },
+        {
+          "percentile": 96,
+          "raw_score": 140
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 136
+        },
+        {
+          "percentile": 95,
+          "raw_score": 132
+        },
+        {
+          "percentile": 94,
+          "raw_score": 124
+        },
+        {
+          "percentile": 93,
+          "raw_score": 120
+        },
+        {
+          "percentile": 92,
+          "raw_score": 111
+        },
+        {
+          "percentile": 91,
+          "raw_score": 104
+        },
+        {
+          "percentile": 90,
+          "raw_score": 101
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_24_JAN_1",
+      "date": "2025-01-24",
+      "session_time": "Morning",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 183
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 168
+        },
+        {
+          "percentile": 98,
+          "raw_score": 158
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 150
+        },
+        {
+          "percentile": 97,
+          "raw_score": 144
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 137
+        },
+        {
+          "percentile": 96,
+          "raw_score": 131
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 126
+        },
+        {
+          "percentile": 95,
+          "raw_score": 121
+        },
+        {
+          "percentile": 94,
+          "raw_score": 111
+        },
+        {
+          "percentile": 93,
+          "raw_score": 104
+        },
+        {
+          "percentile": 92,
+          "raw_score": 97
+        },
+        {
+          "percentile": 91,
+          "raw_score": 91
+        },
+        {
+          "percentile": 90,
+          "raw_score": 85
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_24_JAN_2",
+      "date": "2025-01-24",
+      "session_time": "Evening",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 200
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 186
+        },
+        {
+          "percentile": 98,
+          "raw_score": 177
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 166
+        },
+        {
+          "percentile": 97,
+          "raw_score": 162
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 156
+        },
+        {
+          "percentile": 96,
+          "raw_score": 151
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 148
+        },
+        {
+          "percentile": 95,
+          "raw_score": 142
+        },
+        {
+          "percentile": 94,
+          "raw_score": 133
+        },
+        {
+          "percentile": 93,
+          "raw_score": 127
+        },
+        {
+          "percentile": 92,
+          "raw_score": 121
+        },
+        {
+          "percentile": 91,
+          "raw_score": 115
+        },
+        {
+          "percentile": 90,
+          "raw_score": 112
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_28_JAN_1",
+      "date": "2025-01-28",
+      "session_time": "Morning",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 148
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 136
+        },
+        {
+          "percentile": 98,
+          "raw_score": 126
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 120
+        },
+        {
+          "percentile": 97,
+          "raw_score": 114
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 110
+        },
+        {
+          "percentile": 96,
+          "raw_score": 105
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 100
+        },
+        {
+          "percentile": 95,
+          "raw_score": 96
+        },
+        {
+          "percentile": 94,
+          "raw_score": 90
+        },
+        {
+          "percentile": 93,
+          "raw_score": 85
+        },
+        {
+          "percentile": 92,
+          "raw_score": 85
+        },
+        {
+          "percentile": 91,
+          "raw_score": 76
+        },
+        {
+          "percentile": 90,
+          "raw_score": 70
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_28_JAN_2",
+      "date": "2025-01-28",
+      "session_time": "Evening",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 170
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 158
+        },
+        {
+          "percentile": 98,
+          "raw_score": 149
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 142
+        },
+        {
+          "percentile": 97,
+          "raw_score": 136
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 131
+        },
+        {
+          "percentile": 96,
+          "raw_score": 127
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 121
+        },
+        {
+          "percentile": 95,
+          "raw_score": 118
+        },
+        {
+          "percentile": 94,
+          "raw_score": 111
+        },
+        {
+          "percentile": 93,
+          "raw_score": 105
+        },
+        {
+          "percentile": 92,
+          "raw_score": 104
+        },
+        {
+          "percentile": 91,
+          "raw_score": 99
+        },
+        {
+          "percentile": 90,
+          "raw_score": 90
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_29_JAN_1",
+      "date": "2025-01-29",
+      "session_time": "Morning",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 174
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 162
+        },
+        {
+          "percentile": 98,
+          "raw_score": 153
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 145
+        },
+        {
+          "percentile": 97,
+          "raw_score": 140
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 135
+        },
+        {
+          "percentile": 96,
+          "raw_score": 130
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 126
+        },
+        {
+          "percentile": 95,
+          "raw_score": 123
+        },
+        {
+          "percentile": 94,
+          "raw_score": 116
+        },
+        {
+          "percentile": 93,
+          "raw_score": 110
+        },
+        {
+          "percentile": 92,
+          "raw_score": 109
+        },
+        {
+          "percentile": 91,
+          "raw_score": 95
+        },
+        {
+          "percentile": 90,
+          "raw_score": 94
+        }
+      ],
+      "source_id": "src-p0003"
+    },
+    {
+      "shift_id": "2025_29_JAN_2",
+      "date": "2025-01-29",
+      "session_time": "Evening",
+      "percentile_curve": [
+        {
+          "percentile": 99,
+          "raw_score": 176
+        },
+        {
+          "percentile": 98.5,
+          "raw_score": 165
+        },
+        {
+          "percentile": 98,
+          "raw_score": 154
+        },
+        {
+          "percentile": 97.5,
+          "raw_score": 149
+        },
+        {
+          "percentile": 97,
+          "raw_score": 144
+        },
+        {
+          "percentile": 96.5,
+          "raw_score": 140
+        },
+        {
+          "percentile": 96,
+          "raw_score": 136
+        },
+        {
+          "percentile": 95.5,
+          "raw_score": 129
+        },
+        {
+          "percentile": 95,
+          "raw_score": 127
+        },
+        {
+          "percentile": 94,
+          "raw_score": 120
+        },
+        {
+          "percentile": 93,
+          "raw_score": 115
+        },
+        {
+          "percentile": 92,
+          "raw_score": 113
+        },
+        {
+          "percentile": 91,
+          "raw_score": 109
+        },
+        {
+          "percentile": 90,
+          "raw_score": 101
+        }
+      ],
+      "source_id": "src-p0003"
+    }
+  ]
+}

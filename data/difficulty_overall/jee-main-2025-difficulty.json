@@ -1,0 +1,139 @@
+{
+  "description": "Per-shift question difficulty composition for JEE Main 2025 (January + April).",
+  "source_id": "src-p0005",
+  "shifts": [
+    {
+      "shift_id": "2025_22_JAN_1",
+      "total": 75,
+      "n_easy": 22,
+      "n_moderate": 45,
+      "n_hard": 8
+    },
+    {
+      "shift_id": "2025_22_JAN_2",
+      "total": 75,
+      "n_easy": 22,
+      "n_moderate": 49,
+      "n_hard": 4
+    },
+    {
+      "shift_id": "2025_23_JAN_1",
+      "total": 75,
+      "n_easy": 20,
+      "n_moderate": 48,
+      "n_hard": 7
+    },
+    {
+      "shift_id": "2025_23_JAN_2",
+      "total": 75,
+      "n_easy": 28,
+      "n_moderate": 44,
+      "n_hard": 3
+    },
+    {
+      "shift_id": "2025_24_JAN_1",
+      "total": 75,
+      "n_easy": 18,
+      "n_moderate": 52,
+      "n_hard": 5
+    },
+    {
+      "shift_id": "2025_24_JAN_2",
+      "total": 75,
+      "n_easy": 29,
+      "n_moderate": 44,
+      "n_hard": 2
+    },
+    {
+      "shift_id": "2025_28_JAN_1",
+      "total": 75,
+      "n_easy": 19,
+      "n_moderate": 49,
+      "n_hard": 7
+    },
+    {
+      "shift_id": "2025_28_JAN_2",
+      "total": 75,
+      "n_easy": 25,
+      "n_moderate": 47,
+      "n_hard": 3
+    },
+    {
+      "shift_id": "2025_29_JAN_1",
+      "total": 75,
+      "n_easy": 24,
+      "n_moderate": 48,
+      "n_hard": 3
+    },
+    {
+      "shift_id": "2025_29_JAN_2",
+      "total": 75,
+      "n_easy": 23,
+      "n_moderate": 42,
+      "n_hard": 10
+    },
+    {
+      "shift_id": "2025_02_APR_1",
+      "total": 75,
+      "n_easy": 16,
+      "n_moderate": 54,
+      "n_hard": 5
+    },
+    {
+      "shift_id": "2025_02_APR_2",
+      "total": 75,
+      "n_easy": 23,
+      "n_moderate": 50,
+      "n_hard": 2
+    },
+    {
+      "shift_id": "2025_03_APR_1",
+      "total": 75,
+      "n_easy": 21,
+      "n_moderate": 50,
+      "n_hard": 4
+    },
+    {
+      "shift_id": "2025_03_APR_2",
+      "total": 75,
+      "n_easy": 21,
+      "n_moderate": 52,
+      "n_hard": 2
+    },
+    {
+      "shift_id": "2025_04_APR_1",
+      "total": 75,
+      "n_easy": 20,
+      "n_moderate": 53,
+      "n_hard": 2
+    },
+    {
+      "shift_id": "2025_04_APR_2",
+      "total": 75,
+      "n_easy": 19,
+      "n_moderate": 50,
+      "n_hard": 6
+    },
+    {
+      "shift_id": "2025_07_APR_1",
+      "total": 75,
+      "n_easy": 17,
+      "n_moderate": 56,
+      "n_hard": 2
+    },
+    {
+      "shift_id": "2025_07_APR_2",
+      "total": 75,
+      "n_easy": 22,
+      "n_moderate": 52,
+      "n_hard": 1
+    },
+    {
+      "shift_id": "2025_08_APR_2",
+      "total": 75,
+      "n_easy": 22,
+      "n_moderate": 50,
+      "n_hard": 3
+    }
+  ]
+}

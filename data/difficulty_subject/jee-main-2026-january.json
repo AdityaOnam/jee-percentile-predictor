@@ -1,0 +1,501 @@
+{
+  "description": "Per-subject (Physics / Chemistry / Mathematics) difficulty composition per shift, JEE Main January 2026.",
+  "caveat": "Noisier than 2025: 14 subject-shift combinations have questions filed under the wrong subject (chapter misclassification, e.g. 2026_24_JAN_1 chemistry 21+4 / physics 19+6 instead of 20+5 each). Subject-level conclusions should be checked with 2026 rows excluded.",
+  "source_id": "src-p0008",
+  "shifts": [
+    {
+      "shift_id": "2026_02_APR_1",
+      "date": "2026-04-02",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 11,
+          "n_moderate": 13,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 9,
+          "n_moderate": 16,
+          "n_hard": 0
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 4,
+          "n_moderate": 18,
+          "n_hard": 3
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_02_APR_2",
+      "date": "2026-04-02",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 26,
+          "n_easy": 8,
+          "n_moderate": 18,
+          "n_hard": 0
+        },
+        "chemistry": {
+          "total": 24,
+          "n_easy": 3,
+          "n_moderate": 19,
+          "n_hard": 2
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 21,
+          "n_hard": 2
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_04_APR_1",
+      "date": "2026-04-04",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 11,
+          "n_moderate": 14,
+          "n_hard": 0
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 11,
+          "n_moderate": 13,
+          "n_hard": 1
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 19,
+          "n_hard": 4
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_04_APR_2",
+      "date": "2026-04-04",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 10,
+          "n_moderate": 14,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 20,
+          "n_hard": 2
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 20,
+          "n_hard": 3
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_05_APR_1",
+      "date": "2026-04-05",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 8,
+          "n_moderate": 16,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 9,
+          "n_moderate": 15,
+          "n_hard": 1
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 18,
+          "n_hard": 4
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_05_APR_2",
+      "date": "2026-04-05",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 10,
+          "n_moderate": 15,
+          "n_hard": 0
+        },
+        "chemistry": {
+          "total": 24,
+          "n_easy": 7,
+          "n_moderate": 16,
+          "n_hard": 1
+        },
+        "mathematics": {
+          "total": 26,
+          "n_easy": 8,
+          "n_moderate": 14,
+          "n_hard": 4
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_06_APR_1",
+      "date": "2026-04-06",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 24,
+          "n_easy": 8,
+          "n_moderate": 15,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 26,
+          "n_easy": 10,
+          "n_moderate": 16,
+          "n_hard": 0
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 19,
+          "n_hard": 3
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_06_APR_2",
+      "date": "2026-04-06",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 13,
+          "n_moderate": 11,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 6,
+          "n_moderate": 17,
+          "n_hard": 2
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 22,
+          "n_hard": 1
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_08_APR_2",
+      "date": "2026-04-08",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 26,
+          "n_easy": 8,
+          "n_moderate": 18,
+          "n_hard": 0
+        },
+        "chemistry": {
+          "total": 24,
+          "n_easy": 8,
+          "n_moderate": 15,
+          "n_hard": 1
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 19,
+          "n_hard": 4
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_21_JAN_1",
+      "date": "2026-01-21",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 26,
+          "n_easy": 12,
+          "n_moderate": 14,
+          "n_hard": 0
+        },
+        "chemistry": {
+          "total": 24,
+          "n_easy": 3,
+          "n_moderate": 17,
+          "n_hard": 4
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 19,
+          "n_hard": 3
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_21_JAN_2",
+      "date": "2026-01-21",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 24,
+          "n_easy": 12,
+          "n_moderate": 11,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 26,
+          "n_easy": 6,
+          "n_moderate": 20,
+          "n_hard": 0
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 17,
+          "n_hard": 5
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_22_JAN_1",
+      "date": "2026-01-22",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 5,
+          "n_moderate": 18,
+          "n_hard": 2
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 8,
+          "n_moderate": 13,
+          "n_hard": 4
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 20,
+          "n_hard": 3
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_22_JAN_2",
+      "date": "2026-01-22",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 12,
+          "n_moderate": 12,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 19,
+          "n_hard": 3
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 1,
+          "n_moderate": 20,
+          "n_hard": 4
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_23_JAN_1",
+      "date": "2026-01-23",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 7,
+          "n_moderate": 17,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 21,
+          "n_hard": 1
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 19,
+          "n_hard": 3
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_23_JAN_2",
+      "date": "2026-01-23",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 27,
+          "n_easy": 9,
+          "n_moderate": 15,
+          "n_hard": 3
+        },
+        "chemistry": {
+          "total": 23,
+          "n_easy": 5,
+          "n_moderate": 18,
+          "n_hard": 0
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 20,
+          "n_hard": 2
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_24_JAN_1",
+      "date": "2026-01-24",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 13,
+          "n_moderate": 10,
+          "n_hard": 2
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 8,
+          "n_moderate": 15,
+          "n_hard": 2
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 0,
+          "n_moderate": 22,
+          "n_hard": 3
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_24_JAN_2",
+      "date": "2026-01-24",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 26,
+          "n_easy": 7,
+          "n_moderate": 19,
+          "n_hard": 0
+        },
+        "chemistry": {
+          "total": 24,
+          "n_easy": 6,
+          "n_moderate": 18,
+          "n_hard": 0
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 19,
+          "n_hard": 4
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_28_JAN_1",
+      "date": "2026-01-28",
+      "session_time": "Morning",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 11,
+          "n_moderate": 12,
+          "n_hard": 2
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 7,
+          "n_moderate": 17,
+          "n_hard": 1
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 3,
+          "n_moderate": 17,
+          "n_hard": 5
+        }
+      },
+      "source_id": "src-p0008"
+    },
+    {
+      "shift_id": "2026_28_JAN_2",
+      "date": "2026-01-28",
+      "session_time": "Evening",
+      "subjects": {
+        "physics": {
+          "total": 25,
+          "n_easy": 9,
+          "n_moderate": 15,
+          "n_hard": 1
+        },
+        "chemistry": {
+          "total": 25,
+          "n_easy": 4,
+          "n_moderate": 18,
+          "n_hard": 3
+        },
+        "mathematics": {
+          "total": 25,
+          "n_easy": 2,
+          "n_moderate": 16,
+          "n_hard": 7
+        }
+      },
+      "source_id": "src-p0008"
+    }
+  ]
+}

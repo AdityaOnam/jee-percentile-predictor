@@ -1,0 +1,183 @@
+{
+  "exam": "JEE Main",
+  "year": 2022,
+  "session": "national (not shift-wise)",
+  "notes": "Different shape than every other file in this directory: this is a single NATIONAL curve (not per-shift), and marks are given as 10-point BINS (e.g. '91-100') mapping to a percentile RANGE, not single values. Reference/comparison only - not usable as a Stage 1/2 training input in its current form (would need per-shift disaggregation, which this source does not provide). Not cross-validated against a second source.",
+  "score_bins": [
+    {
+      "marks_min": 281,
+      "marks_max": 300,
+      "percentile_min": 99.99989145,
+      "percentile_max": 100
+    },
+    {
+      "marks_min": 271,
+      "marks_max": 280,
+      "percentile_min": 99.994681,
+      "percentile_max": 99.997394
+    },
+    {
+      "marks_min": 263,
+      "marks_max": 270,
+      "percentile_min": 99.99099,
+      "percentile_max": 99.994029
+    },
+    {
+      "marks_min": 250,
+      "marks_max": 262,
+      "percentile_min": 99.977205,
+      "percentile_max": 99.988819
+    },
+    {
+      "marks_min": 241,
+      "marks_max": 250,
+      "percentile_min": 99.960163,
+      "percentile_max": 99.975034
+    },
+    {
+      "marks_min": 231,
+      "marks_max": 240,
+      "percentile_min": 99.93498,
+      "percentile_max": 99.956364
+    },
+    {
+      "marks_min": 221,
+      "marks_max": 230,
+      "percentile_min": 99.901113,
+      "percentile_max": 99.928901
+    },
+    {
+      "marks_min": 211,
+      "marks_max": 220,
+      "percentile_min": 99.851616,
+      "percentile_max": 99.893732
+    },
+    {
+      "marks_min": 201,
+      "marks_max": 210,
+      "percentile_min": 99.795063,
+      "percentile_max": 99.845212
+    },
+    {
+      "marks_min": 191,
+      "marks_max": 200,
+      "percentile_min": 99.710831,
+      "percentile_max": 99.782472
+    },
+    {
+      "marks_min": 181,
+      "marks_max": 190,
+      "percentile_min": 99.597399,
+      "percentile_max": 99.688579
+    },
+    {
+      "marks_min": 171,
+      "marks_max": 180,
+      "percentile_min": 99.456939,
+      "percentile_max": 99.573193
+    },
+    {
+      "marks_min": 161,
+      "marks_max": 170,
+      "percentile_min": 99.272084,
+      "percentile_max": 99.431214
+    },
+    {
+      "marks_min": 151,
+      "marks_max": 160,
+      "percentile_min": 99.028614,
+      "percentile_max": 99.239737
+    },
+    {
+      "marks_min": 141,
+      "marks_max": 150,
+      "percentile_min": 98.732389,
+      "percentile_max": 98.990296
+    },
+    {
+      "marks_min": 131,
+      "marks_max": 140,
+      "percentile_min": 98.317414,
+      "percentile_max": 98.666935
+    },
+    {
+      "marks_min": 121,
+      "marks_max": 130,
+      "percentile_min": 97.81126,
+      "percentile_max": 98.254132
+    },
+    {
+      "marks_min": 111,
+      "marks_max": 120,
+      "percentile_min": 97.142937,
+      "percentile_max": 97.685672
+    },
+    {
+      "marks_min": 101,
+      "marks_max": 110,
+      "percentile_min": 96.20455,
+      "percentile_max": 96.978272
+    },
+    {
+      "marks_min": 91,
+      "marks_max": 100,
+      "percentile_min": 94.998594,
+      "percentile_max": 96.06485
+    },
+    {
+      "marks_min": 81,
+      "marks_max": 90,
+      "percentile_min": 93.471231,
+      "percentile_max": 94.749479
+    },
+    {
+      "marks_min": 71,
+      "marks_max": 80,
+      "percentile_min": 91.072128,
+      "percentile_max": 93.152971
+    },
+    {
+      "marks_min": 61,
+      "marks_max": 70,
+      "percentile_min": 87.512225,
+      "percentile_max": 90.7022
+    },
+    {
+      "marks_min": 51,
+      "marks_max": 60,
+      "percentile_min": 82.016062,
+      "percentile_max": 86.907944
+    },
+    {
+      "marks_min": 41,
+      "marks_max": 50,
+      "percentile_min": 73.287808,
+      "percentile_max": 80.982153
+    },
+    {
+      "marks_min": 31,
+      "marks_max": 40,
+      "percentile_min": 58.15149,
+      "percentile_max": 71.302052
+    },
+    {
+      "marks_min": 21,
+      "marks_max": 30,
+      "percentile_min": 37.694529,
+      "percentile_max": 56.56931
+    },
+    {
+      "marks_min": 11,
+      "marks_max": 20,
+      "percentile_min": 13.495849,
+      "percentile_max": 33.229128
+    },
+    {
+      "marks_min": 0,
+      "marks_max": 10,
+      "percentile_min": 0.8435177,
+      "percentile_max": 9.6954066
+    }
+  ],
+  "source_id": "src-p0007"
+}

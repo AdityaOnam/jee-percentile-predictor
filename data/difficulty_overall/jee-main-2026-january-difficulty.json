@@ -1,0 +1,75 @@
+{
+  "description": "Per-shift question difficulty composition for JEE Main January 2026.",
+  "shifts": [
+    {
+      "shift_id": "2026_21_JAN_1",
+      "total": 75,
+      "n_easy": 18,
+      "n_moderate": 50,
+      "n_hard": 7
+    },
+    {
+      "shift_id": "2026_21_JAN_2",
+      "total": 75,
+      "n_easy": 21,
+      "n_moderate": 48,
+      "n_hard": 6
+    },
+    {
+      "shift_id": "2026_22_JAN_1",
+      "total": 75,
+      "n_easy": 15,
+      "n_moderate": 51,
+      "n_hard": 9
+    },
+    {
+      "shift_id": "2026_22_JAN_2",
+      "total": 75,
+      "n_easy": 16,
+      "n_moderate": 51,
+      "n_hard": 8
+    },
+    {
+      "shift_id": "2026_23_JAN_1",
+      "total": 75,
+      "n_easy": 13,
+      "n_moderate": 57,
+      "n_hard": 5
+    },
+    {
+      "shift_id": "2026_23_JAN_2",
+      "total": 75,
+      "n_easy": 17,
+      "n_moderate": 53,
+      "n_hard": 5
+    },
+    {
+      "shift_id": "2026_24_JAN_1",
+      "total": 75,
+      "n_easy": 21,
+      "n_moderate": 47,
+      "n_hard": 7
+    },
+    {
+      "shift_id": "2026_24_JAN_2",
+      "total": 75,
+      "n_easy": 15,
+      "n_moderate": 56,
+      "n_hard": 4
+    },
+    {
+      "shift_id": "2026_28_JAN_1",
+      "total": 75,
+      "n_easy": 21,
+      "n_moderate": 46,
+      "n_hard": 8
+    },
+    {
+      "shift_id": "2026_28_JAN_2",
+      "total": 75,
+      "n_easy": 15,
+      "n_moderate": 49,
+      "n_hard": 11
+    }
+  ]
+}

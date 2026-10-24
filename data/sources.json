@@ -1,0 +1,70 @@
+[
+  {
+    "id": "src-p0001",
+    "title": "JEE Main January 2026 shift-wise marks vs percentile (community-compiled sheet, 23 tiers)",
+    "url": null,
+    "covers": "JEE Main January 2026, 10 shifts",
+    "reliability": "community"
+  },
+  {
+    "id": "src-p0002",
+    "title": "JEE Main January 2026 per-shift difficulty composition",
+    "url": null,
+    "covers": "10 shifts, overall E/M/H counts",
+    "reliability": "first-party",
+    "method": "Author-maintained JEE Main question bank: every question of the actual paper carries an Easy / Moderate / Hard label; counts are aggregated per shift."
+  },
+  {
+    "id": "src-p0003",
+    "title": "Marks vs Percentile JEE Main 2025, shift-wise, Session 1 and 2 (Vedantu)",
+    "url": "https://www.vedantu.com/jee-main/jee-main-marks-vs-percentile-2025",
+    "covers": "JEE Main 2025 January + April",
+    "reliability": "coaching-institute"
+  },
+  {
+    "id": "src-p0004",
+    "title": "Shift-wise JEE Main 2025 Marks vs Percentile, January (Physics Wallah)",
+    "url": "https://www.pw.live/iit-jee/exams/shift-wise-jee-main-2025-marks-vs-percentile",
+    "covers": "JEE Main 2025 January",
+    "reliability": "coaching-institute",
+    "notes": "Identical values to src-p0003 for every January 2025 shift - used as cross-validation."
+  },
+  {
+    "id": "src-p0005",
+    "title": "JEE Main 2025 per-shift difficulty composition",
+    "url": null,
+    "covers": "19 shifts, overall E/M/H counts",
+    "reliability": "first-party",
+    "method": "Author-maintained JEE Main question bank: every question of the actual paper carries an Easy / Moderate / Hard label; counts are aggregated per shift."
+  },
+  {
+    "id": "src-p0006",
+    "title": "JEE Main 2023 January attempt marks vs percentile (Rankers Offline Centre, Varanasi)",
+    "url": "https://myrankers.com/wp-content/uploads/2023/02/JAN-ATTEMPT-mark-vs-percentile.pdf",
+    "covers": "JEE Main 2023 January, 12 shifts",
+    "reliability": "coaching-institute"
+  },
+  {
+    "id": "src-p0007",
+    "title": "JEE Main 2022 Marks vs Percentile vs Rank (GetMyUni)",
+    "url": "https://www.getmyuni.com/articles/jee-main-2022-marks-vs-percentile",
+    "covers": "JEE Main 2022 national curve (not shift-wise)",
+    "reliability": "aggregator"
+  },
+  {
+    "id": "src-p0008",
+    "title": "JEE Main January 2026 per-shift, per-subject difficulty composition",
+    "url": null,
+    "covers": "10 shifts x 3 subjects",
+    "reliability": "first-party",
+    "method": "Author-maintained JEE Main question bank: every question of the actual paper carries an Easy / Moderate / Hard label; counts are aggregated per shift."
+  },
+  {
+    "id": "src-p0009",
+    "title": "JEE Main 2025 per-shift, per-subject difficulty composition",
+    "url": null,
+    "covers": "19 shifts x 3 subjects",
+    "reliability": "first-party",
+    "method": "Author-maintained JEE Main question bank: every question of the actual paper carries an Easy / Moderate / Hard label; counts are aggregated per shift."
+  }
+]
